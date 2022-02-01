@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\obj\Debug\ispravakPonavljanje1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\obj\Debug\ispravakPonavljanje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\obj\Debug\ispravakPonavljanje1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\bin\Debug\ispravakPonavljanje1.exe.config
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\bin\Debug\ispravakPonavljanje1.exe
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\bin\Debug\ispravakPonavljanje1.pdb
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\obj\Debug\ispravakPonavljanje1.exe
+C:\Users\ucenik\source\repos\ispravakPonavljanje1\ispravakPonavljanje1\obj\Debug\ispravakPonavljanje1.pdb
